@@ -1,7 +1,7 @@
 # Bilibili Live Message
 
-## 参考https://github.com/GoldrenEggs/Bilibili-Live-Message
-## 实现搜索关键词，同时爬取该关键词下所有直播间的信息
+### 参考https://github.com/GoldrenEggs/Bilibili-Live-Message
+### 实现搜索关键词，同时爬取该关键词下所有直播间的信息
 
 使用方法请参考 [main.py](main.py)，或者看下文
 
