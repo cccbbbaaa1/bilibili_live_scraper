@@ -5,7 +5,7 @@
 
 使用方法请参考 [main.py](main.py)，或者看下文
 
-消息的json格式请参考 [PackJson](PackJson)，如果你知道了某个json中的内容代表了什么，麻烦告诉我一声
+消息的json格式请参考 [PackJson](PackJson)
 
 `__handle_msg` 函数中有一行注释掉的代码，把他取消注释可以将未知的包保存在文件中，如果发现新的CMD也麻烦告诉我一声
 
